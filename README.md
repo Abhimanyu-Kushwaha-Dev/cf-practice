@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 7 |
+| 15 | 7 |
 
 ---
 
@@ -15,10 +15,10 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (4)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (9)
+- [implementation](#implementation) (10)
 - [math](#math) (4)
 - [sortings](#sortings) (1)
-- [strings](#strings) (5)
+- [strings](#strings) (6)
 
 ---
 
@@ -49,6 +49,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/59/A%20-%20Word/solution.py) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.py) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/118/A%20-%20String%20Task/solution.py) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/158/A%20-%20Next%20Round/solution.py) |
@@ -78,6 +79,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/59/A%20-%20Word/solution.py) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.py) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.py) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/118/A%20-%20String%20Task/solution.py) |
