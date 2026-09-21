@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 7 |
+| 19 | 7 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (4)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (13)
+- [implementation](#implementation) (14)
 - [math](#math) (5)
 - [sortings](#sortings) (1)
 - [strings](#strings) (6)
@@ -61,6 +61,7 @@
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.py) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
+| 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.py) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.py) |
 
 ### math
