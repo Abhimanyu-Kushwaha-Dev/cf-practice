@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 27 | 10 |
+| 28 | 10 |
 
 ---
 
@@ -17,8 +17,8 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (20)
-- [math](#math) (6)
+- [implementation](#implementation) (21)
+- [math](#math) (7)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (7)
@@ -73,6 +73,7 @@
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/116/A%20-%20Tram/solution.py) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/118/A%20-%20String%20Task/solution.py) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/158/A%20-%20Next%20Round/solution.py) |
+| 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/200/B%20-%20Drinks/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.py) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.py) |
@@ -95,6 +96,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/50/A%20-%20Domino%20piling/solution.py) |
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/69/A%20-%20Young%20Physicist/solution.py) |
+| 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/200/B%20-%20Drinks/solution.py) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/486/A%20-%20Calculating%20Function/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
 
