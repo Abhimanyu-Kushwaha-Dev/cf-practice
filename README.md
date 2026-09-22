@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 29 | 11 |
+| 30 | 11 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (21)
+- [implementation](#implementation) (22)
 - [math](#math) (7)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -76,6 +76,7 @@
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/118/A%20-%20String%20Task/solution.py) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/158/A%20-%20Next%20Round/solution.py) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/200/B%20-%20Drinks/solution.py) |
+| 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.py) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.py) |
