@@ -1,0 +1,18 @@
+n=int(input())
+output=[]
+while(n>0):
+    l,v=input().split()
+    l=int(l)
+    word=input()
+    swap=0
+    for i in range(l//2):
+        j=(l-i-1)
+        if word[i]!=word[j]:
+            if word[i]==v or word[j]==v:
+                swap+=1
+            else:
+                swap+=2
+    output.append(swap)
+    n-=1
+for i in output:
+    print(i)
