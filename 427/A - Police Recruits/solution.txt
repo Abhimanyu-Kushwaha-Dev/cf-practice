@@ -1,0 +1,12 @@
+n=int(input())
+lst=list(map(int,input().split()))
+c,d=0,0
+for i in range(0,n):
+    if lst[i]==-1:
+        if d!=0:
+            d-=1
+        else:
+            c+=1
+    else:
+        d+=lst[i]
+print(c)
