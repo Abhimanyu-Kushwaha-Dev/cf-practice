@@ -1,0 +1,6 @@
+n=int(input())
+lst=[]
+for i in range(n):
+    lst.append(int(input()))
+for x in lst:
+    print("NO") if x>0 and (x&(x-1))==0 else print("YES")
