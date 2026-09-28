@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 49 | 16 |
+| 50 | 16 |
 
 ---
 
@@ -23,8 +23,8 @@
 - [greedy](#greedy) (5)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (37)
-- [math](#math) (13)
-- [number theory](#number-theory) (2)
+- [math](#math) (14)
+- [number theory](#number-theory) (3)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (3)
 - [strings](#strings) (12)
@@ -162,6 +162,7 @@
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.py) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.txt) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.py) |
+| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.txt) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
 
 ### number theory
@@ -169,6 +170,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/122/A%20-%20Lucky%20Division/solution.py) |
+| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.txt) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
 
 ### shortest paths
