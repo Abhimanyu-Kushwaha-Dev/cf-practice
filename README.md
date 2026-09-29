@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 53 | 16 |
+| 54 | 16 |
 
 ---
 
@@ -23,7 +23,7 @@
 - [greedy](#greedy) (5)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (39)
-- [math](#math) (16)
+- [math](#math) (17)
 - [number theory](#number-theory) (3)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (3)
@@ -169,6 +169,7 @@
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.py) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.txt) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
+| 2203A | [Towers of Boxes](https://codeforces.com/contest/2203/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2203/A%20-%20Towers%20of%20Boxes/solution.txt) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.txt) |
 
 ### number theory
