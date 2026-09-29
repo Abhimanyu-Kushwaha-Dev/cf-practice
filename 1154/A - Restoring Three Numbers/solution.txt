@@ -1,0 +1,4 @@
+lst=list(map(int,input().split()))
+M=lst.pop(lst.index(max(lst)))
+for i in lst:
+    print(M-i,end=" ")
