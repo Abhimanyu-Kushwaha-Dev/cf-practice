@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 55 | 17 |
+| 56 | 17 |
 
 ---
 
@@ -14,20 +14,20 @@
 
 - [*special](#special) (1)
 - [binary search](#binary-search) (3)
-- [brute force](#brute-force) (9)
+- [brute force](#brute-force) (10)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [games](#games) (2)
 - [geometry](#geometry) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (6)
+- [greedy](#greedy) (7)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (39)
+- [implementation](#implementation) (40)
 - [math](#math) (18)
 - [number theory](#number-theory) (3)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (3)
+- [sortings](#sortings) (4)
 - [strings](#strings) (12)
 
 ---
@@ -58,6 +58,7 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.txt) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
+| 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.txt) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.txt) |
 
 ### constructive algorithms
@@ -106,6 +107,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/231/A%20-%20Team/solution.py) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1806/A%20-%20Walking%20Master/solution.txt) |
+| 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.txt) |
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | Unrated | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.txt) |
 
 ### hashing
@@ -155,6 +157,7 @@
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.py) |
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1669/A%20-%20Division%3F/solution.txt) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
+| 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.txt) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.txt) |
 | 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.txt) |
 
@@ -202,6 +205,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.txt) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.py) |
+| 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.txt) |
 
 ### strings
 
