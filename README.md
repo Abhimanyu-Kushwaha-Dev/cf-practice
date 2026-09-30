@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 54 | 16 |
+| 55 | 17 |
 
 ---
 
@@ -19,11 +19,12 @@
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [games](#games) (2)
+- [geometry](#geometry) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (5)
+- [greedy](#greedy) (6)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (39)
-- [math](#math) (17)
+- [math](#math) (18)
 - [number theory](#number-theory) (3)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (3)
@@ -84,6 +85,12 @@
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.txt) |
 
+### geometry
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1806/A%20-%20Walking%20Master/solution.txt) |
+
 ### graph matchings
 
 | # | Problem | Difficulty | Solution |
@@ -98,6 +105,7 @@
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/58/A%20-%20Chat%20room/solution.py) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/231/A%20-%20Team/solution.py) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
+| 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1806/A%20-%20Walking%20Master/solution.txt) |
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | Unrated | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.txt) |
 
 ### hashing
@@ -168,6 +176,7 @@
 | 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.txt) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.py) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.txt) |
+| 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1806/A%20-%20Walking%20Master/solution.txt) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
 | 2203A | [Towers of Boxes](https://codeforces.com/contest/2203/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2203/A%20-%20Towers%20of%20Boxes/solution.txt) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.txt) |
