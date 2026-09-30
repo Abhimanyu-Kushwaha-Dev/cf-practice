@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 60 | 17 |
+| 61 | 17 |
 
 ---
 
@@ -21,10 +21,10 @@
 - [games](#games) (2)
 - [geometry](#geometry) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (8)
+- [greedy](#greedy) (9)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (43)
-- [math](#math) (20)
+- [math](#math) (21)
 - [number theory](#number-theory) (3)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (4)
@@ -108,6 +108,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1806/A%20-%20Walking%20Master/solution.txt) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.txt) |
+| 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.txt) |
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.txt) |
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | Unrated | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.txt) |
 
@@ -185,6 +186,7 @@
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.py) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.txt) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1806/A%20-%20Walking%20Master/solution.txt) |
+| 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.txt) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.txt) |
 | 2203A | [Towers of Boxes](https://codeforces.com/contest/2203/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2203/A%20-%20Towers%20of%20Boxes/solution.txt) |
