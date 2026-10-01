@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 61 | 17 |
+| 62 | 17 |
 
 ---
 
@@ -23,7 +23,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (9)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (43)
+- [implementation](#implementation) (44)
 - [math](#math) (21)
 - [number theory](#number-theory) (3)
 - [shortest paths](#shortest-paths) (1)
@@ -161,6 +161,7 @@
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1669/A%20-%20Division%3F/solution.txt) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.txt) |
+| 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1829/B%20-%20Blank%20Space/solution.txt) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.txt) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.txt) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.txt) |
