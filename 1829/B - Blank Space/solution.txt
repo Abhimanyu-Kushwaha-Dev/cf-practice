@@ -1,0 +1,12 @@
+t=int(input())
+for i in range(t):
+    n=int(input())
+    lst=list(map(int,input().split()))
+    c,M=0,0
+    for i in lst:
+        if i==0:
+            c+=1
+        else:
+            c=0
+        M=max(M,c)
+    print(M)
