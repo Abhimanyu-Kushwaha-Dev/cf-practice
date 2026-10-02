@@ -1,0 +1,10 @@
+t=int(input())
+for i in range(t):
+    n=int(input())
+    lst=sorted(list(map(int,input().split())))
+    for j in range(1,len(lst)):
+        if lst[j]-lst[j-1]>1:
+            print("NO")
+            break
+    else:
+        print("YES")
