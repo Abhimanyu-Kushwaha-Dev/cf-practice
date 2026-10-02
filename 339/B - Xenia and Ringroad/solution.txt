@@ -1,0 +1,6 @@
+n,m=map(int,input().split())
+lst=list(map(int,input().split()))
+move=lst[0]-1
+for i in range(1,m):
+    move+=(lst[i]-lst[i-1])%n
+print(move)
