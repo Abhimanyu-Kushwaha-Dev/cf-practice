@@ -1,0 +1,6 @@
+t=int(input())
+for i in range(t):
+    lst=list(map(int,input().split()))
+    lst.pop(lst.index(max(lst)))
+    lst.pop(lst.index(min(lst)))
+    print(lst[0])
