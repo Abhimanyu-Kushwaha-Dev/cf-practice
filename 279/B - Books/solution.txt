@@ -1,0 +1,10 @@
+n,t=map(int, input().split())
+lst=list(map(int,input().split()))
+i,s,ans=0,0,0
+for j in range(n):
+    s+=lst[j]
+    while s>t:
+        s-=lst[i]
+        i+=1
+    ans=max(ans,j-i+1)
+print(ans)
