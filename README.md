@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 68 | 19 |
+| 69 | 19 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [binary search](#binary-search) (4)
 - [brute force](#brute-force) (11)
 - [constructive algorithms](#constructive-algorithms) (1)
@@ -45,6 +45,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.txt) |
+| 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | Unrated | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.txt) |
 
 ### binary search
 
