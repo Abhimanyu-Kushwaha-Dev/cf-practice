@@ -1,0 +1,15 @@
+t=int(input())
+for i in range(t):
+    a,b=map(int,input().split())
+    if a>b:
+        if 2*b>a:
+            print((2*b)**2)
+        else:
+            print(a*a)
+    elif a==b:
+        print((2*a)**2)
+    else:
+        if 2*a>b:
+            print((2*a)**2)
+        else:
+            print(b*b)
