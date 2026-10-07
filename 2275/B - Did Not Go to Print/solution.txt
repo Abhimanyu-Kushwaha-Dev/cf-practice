@@ -1,0 +1,23 @@
+cases=int(input())
+while(cases > 0):
+    n=int(input())
+    s=input().strip()
+    stack=[]
+    printed=[False]*(n+1)
+ 
+    for i in range(1, n+1):
+        if s[i-1]=='1':
+            stack.append(i)
+        elif s[i-1]=='2':
+            if stack:
+                d=stack.pop()
+                printed[d]=True
+            else:
+                printed[i]=True
+        elif s[i-1]=='3':
+            printed[i]=True
+ 
+    not_printed=[i for i in range(1, n+1) if not printed[i]]
+    print(len(not_printed))
+    print(*not_printed)
+    cases-=1 
