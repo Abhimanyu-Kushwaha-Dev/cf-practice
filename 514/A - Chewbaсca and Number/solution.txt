@@ -1,0 +1,9 @@
+n=input().strip()
+s=""
+for i,ch in enumerate(n):
+    d=int(ch)
+    if i==0 and d==9:
+        s+="9"
+    else:
+        s+=str(min(d,9-d))
+print(s)
