@@ -1,0 +1,9 @@
+t=int(input())
+for i in range(t):
+    k=int(input())
+    c,x=0,0
+    while c<k:
+        x+=1
+        if x%3!=0 and x%10!=3:
+            c+=1
+    print(x)
