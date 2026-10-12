@@ -1,0 +1,6 @@
+t=int(input())
+tg="codeforces"
+while(t>0):
+    s=input().strip()
+    print(sum(a!=b for a,b in zip(s,tg)))
+    t-=1
