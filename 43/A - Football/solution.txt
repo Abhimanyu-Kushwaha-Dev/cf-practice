@@ -1,0 +1,5 @@
+goals={}
+for i in range(int(input())):
+    team=input()
+    goals[team]=goals.get(team,0)+1
+print(max(goals,key=goals.get))
