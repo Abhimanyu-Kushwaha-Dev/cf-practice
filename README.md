@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 77 | 19 |
+| 78 | 19 |
 
 ---
 
@@ -17,14 +17,14 @@
 - [binary search](#binary-search) (4)
 - [brute force](#brute-force) (12)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [data structures](#data-structures) (1)
+- [data structures](#data-structures) (2)
 - [dp](#dp) (1)
 - [games](#games) (2)
 - [geometry](#geometry) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (12)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (52)
+- [implementation](#implementation) (53)
 - [math](#math) (24)
 - [number theory](#number-theory) (4)
 - [shortest paths](#shortest-paths) (1)
@@ -84,6 +84,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/4/C%20-%20Registration%20System/solution.py) |
+| 1703B | [ICPC Balloons](https://codeforces.com/contest/1703/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1703/B%20-%20ICPC%20Balloons/solution.txt) |
 
 ### dp
 
@@ -179,6 +180,7 @@
 | 1560A | [Dislike of Threes](https://codeforces.com/contest/1560/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1560/A%20-%20Dislike%20of%20Threes/solution.txt) |
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1669/A%20-%20Division%3F/solution.txt) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
+| 1703B | [ICPC Balloons](https://codeforces.com/contest/1703/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1703/B%20-%20ICPC%20Balloons/solution.txt) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1760/A%20-%20Medium%20Number/solution.txt) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.txt) |
 | 1829A | [Love Story](https://codeforces.com/contest/1829/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1829/A%20-%20Love%20Story/solution.txt) |
