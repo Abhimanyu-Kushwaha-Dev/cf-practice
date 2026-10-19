@@ -1,0 +1,13 @@
+c1,c2=0,0
+for i in range(int(input())):
+    m,c=map(int,input().split())
+    if m>c:
+        c1+=1
+    elif m<c:
+        c2+=1
+if c1>c2:
+    print("Mishka")
+elif c1<c2:
+    print("Chris")
+else:
+    print("Friendship is magic!^^")
