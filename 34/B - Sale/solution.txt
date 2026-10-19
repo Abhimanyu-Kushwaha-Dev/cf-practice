@@ -1,0 +1,10 @@
+n,m=map(int,input().split())
+lst=list(map(int,input().split()))
+lst.sort()
+c=0
+for i in range(min(m,n)):
+    if lst[i]<0:
+        c+=abs(lst[i])
+    else:
+        break
+print(c)
