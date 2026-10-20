@@ -1,0 +1,14 @@
+for x in range(int(input())):
+    n=int(input())
+    s=input()
+    c=0
+    lst=[]
+    for i in s:
+        if len(lst)==0:
+            lst.append(i)
+            continue
+        if lst[-1]=="(" and i==")":
+            lst.pop()
+        else:
+            lst.append(i)
+    print(len(lst)//2)
