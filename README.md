@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 84 | 19 |
+| 85 | 19 |
 
 ---
 
@@ -28,7 +28,7 @@
 - [math](#math) (26)
 - [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (7)
+- [sortings](#sortings) (8)
 - [strings](#strings) (17)
 - [two pointers](#two-pointers) (1)
 
@@ -258,6 +258,7 @@
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.txt) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1760/A%20-%20Medium%20Number/solution.txt) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.txt) |
+| 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.txt) |
 
 ### strings
 
