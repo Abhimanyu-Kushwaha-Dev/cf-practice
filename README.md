@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 89 | 19 |
+| 90 | 19 |
 
 ---
 
@@ -22,10 +22,10 @@
 - [games](#games) (2)
 - [geometry](#geometry) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (15)
+- [greedy](#greedy) (16)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (57)
-- [math](#math) (27)
+- [math](#math) (28)
 - [number theory](#number-theory) (6)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (8)
@@ -126,6 +126,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.txt) |
 | 1360A | [Minimal Square](https://codeforces.com/contest/1360/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1360/A%20-%20Minimal%20Square/solution.txt) |
+| 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1367/B%20-%20Even%20Array/solution.txt) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.txt) |
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.txt) |
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.txt) |
@@ -224,6 +225,7 @@
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.py) |
 | 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.txt) |
 | 1360A | [Minimal Square](https://codeforces.com/contest/1360/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1360/A%20-%20Minimal%20Square/solution.txt) |
+| 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1367/B%20-%20Even%20Array/solution.txt) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.txt) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.txt) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.txt) |
