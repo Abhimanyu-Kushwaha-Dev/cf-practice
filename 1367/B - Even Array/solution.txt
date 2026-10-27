@@ -1,0 +1,15 @@
+for i in range(int(input())):
+    n=int(input())
+    lst=list(map(int,(input().split())))
+    O,E,c,o,e=n//2,n-(n//2),0,0,0
+    for i,x in enumerate(lst):
+        if x&1:
+            o+=1
+        else:
+            e+=1
+        if i%2!=x%2:
+            c+=1
+    if o>O or e>E:
+        print(-1)
+    else:
+        print(c//2)
