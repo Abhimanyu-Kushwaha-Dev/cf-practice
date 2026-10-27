@@ -1,0 +1,12 @@
+for i in range(int(input())):
+    n=int(input())
+    lst=list(map(int,input().split()))
+    m=min(lst)
+    ans=1
+    flag=True
+    for i in lst:
+        if i==m and flag:
+            i+=1
+            flag=False
+        ans*=i
+    print(ans)
