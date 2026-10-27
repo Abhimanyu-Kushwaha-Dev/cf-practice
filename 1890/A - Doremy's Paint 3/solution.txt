@@ -1,0 +1,8 @@
+for i in range(int(input())):
+    n=int(input())
+    lst=list(map(int,input().split()))
+    freq=sorted([lst.count(x) for x in set(lst)])
+    if len(freq)==1 or (len(freq)==2 and freq[1]-freq[0]<=1):
+        print("YES")
+    else:
+        print("NO")
