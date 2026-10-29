@@ -1,0 +1,14 @@
+t=int(input())
+while(t>0):
+    n,q=map(int, input().split())
+    lst=list(map(int,input().split()))
+    pref=[0]*(n+1)
+    for i in range(n):
+        pref[i+1]=pref[i]+lst[i]
+    total=pref[n]
+    while (q>0):
+        l,r,k=map(int, input().split())
+        s=total-(pref[r]-pref[l-1])+(r-l+1) * k
+        print("YES" if s%2 else "NO")
+        q-=1
+    t-=1
