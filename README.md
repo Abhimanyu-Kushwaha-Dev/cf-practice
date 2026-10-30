@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 96 | 21 |
+| 97 | 21 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [binary search](#binary-search) (4)
 - [brute force](#brute-force) (15)
 - [constructive algorithms](#constructive-algorithms) (3)
-- [data structures](#data-structures) (3)
+- [data structures](#data-structures) (4)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (1)
 - [games](#games) (2)
@@ -26,11 +26,11 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (17)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (61)
-- [math](#math) (30)
+- [implementation](#implementation) (62)
+- [math](#math) (31)
 - [number theory](#number-theory) (6)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (8)
+- [sortings](#sortings) (9)
 - [strings](#strings) (18)
 - [two pointers](#two-pointers) (1)
 
@@ -93,6 +93,7 @@
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/4/C%20-%20Registration%20System/solution.py) |
 | 1703B | [ICPC Balloons](https://codeforces.com/contest/1703/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1703/B%20-%20ICPC%20Balloons/solution.txt) |
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.txt) |
+| 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.txt) |
 
 ### dfs and similar
 
@@ -224,6 +225,7 @@
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.txt) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.txt) |
 | 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.txt) |
+| 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.txt) |
 
 ### math
 
@@ -257,6 +259,7 @@
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.txt) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2009/A%20-%20Minimize!/solution.txt) |
+| 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2167/A%20-%20Square%3F/solution.txt) |
 | 2203A | [Towers of Boxes](https://codeforces.com/contest/2203/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2203/A%20-%20Towers%20of%20Boxes/solution.txt) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.txt) |
 
@@ -289,6 +292,7 @@
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1760/A%20-%20Medium%20Number/solution.txt) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.txt) |
 | 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.txt) |
+| 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2167/A%20-%20Square%3F/solution.txt) |
 
 ### strings
 
