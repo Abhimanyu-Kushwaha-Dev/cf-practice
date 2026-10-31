@@ -1,0 +1,10 @@
+for i in range(int(input())):
+    n=int(input())
+    a=list(map(int, input().split()))
+    M=sum(a)
+    if any(x>=2 for x in a[1:-1]):
+        print(M-1)
+    elif a[0]>=2 or a[-1]>=2:
+        print(M-n+1)
+    else:
+        print(-1)
