@@ -1,0 +1,8 @@
+for i in range(int(input())):
+    n=int(input())
+    lst=list(map(int,input().split()))
+    m=min(lst)
+    s=0
+    for i in lst:
+        s+=(i-m)
+    print(s)
