@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 101 | 21 |
+| 103 | 21 |
 
 ---
 
@@ -26,11 +26,11 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (20)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (63)
-- [math](#math) (33)
+- [implementation](#implementation) (64)
+- [math](#math) (34)
 - [number theory](#number-theory) (6)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (10)
+- [sortings](#sortings) (11)
 - [strings](#strings) (18)
 - [two pointers](#two-pointers) (1)
 
@@ -226,6 +226,7 @@
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.txt) |
 | 1926A | [Vlad and the Best of Five](https://codeforces.com/contest/1926/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1926/A%20-%20Vlad%20and%20the%20Best%20of%20Five/solution.txt) |
 | 1950A | [Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1950/A%20-%20Stair%2C%20Peak%2C%20or%20Neither%3F/solution.txt) |
+| 1971A | [My First Sorting Problem](https://codeforces.com/contest/1971/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1971/A%20-%20My%20First%20Sorting%20Problem/solution.txt) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1985/A%20-%20Creating%20Words/solution.txt) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.txt) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.txt) |
@@ -250,6 +251,7 @@
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.py) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.txt) |
 | 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.txt) |
+| 1283A | [Minutes Before the New Year](https://codeforces.com/contest/1283/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1283/A%20-%20Minutes%20Before%20the%20New%20Year/solution.txt) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.py) |
 | 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.txt) |
 | 1360A | [Minimal Square](https://codeforces.com/contest/1360/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1360/A%20-%20Minimal%20Square/solution.txt) |
@@ -300,6 +302,7 @@
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1760/A%20-%20Medium%20Number/solution.txt) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.txt) |
 | 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.txt) |
+| 1971A | [My First Sorting Problem](https://codeforces.com/contest/1971/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1971/A%20-%20My%20First%20Sorting%20Problem/solution.txt) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2167/A%20-%20Square%3F/solution.txt) |
 
 ### strings
