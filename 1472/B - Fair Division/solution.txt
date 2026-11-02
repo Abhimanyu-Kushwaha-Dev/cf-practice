@@ -1,0 +1,10 @@
+t=int(input())
+for i in range(t):
+    n=int(input())
+    a=list(map(int,input().split()))
+    ones=a.count(1)
+    M=sum(a)
+    if M%2==0 and (ones>=2 or M%4==0):
+        print("YES")
+    else:
+        print("NO")
