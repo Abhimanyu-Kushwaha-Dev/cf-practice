@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 103 | 21 |
+| 105 | 21 |
 
 ---
 
@@ -19,15 +19,15 @@
 - [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (4)
 - [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (1)
+- [dp](#dp) (2)
 - [games](#games) (2)
 - [geometry](#geometry) (1)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (20)
+- [greedy](#greedy) (21)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (64)
-- [math](#math) (34)
+- [math](#math) (36)
 - [number theory](#number-theory) (6)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (11)
@@ -107,6 +107,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/706/B%20-%20Interesting%20drink/solution.txt) |
+| 1472B | [Fair Division](https://codeforces.com/contest/1472/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1472/B%20-%20Fair%20Division/solution.txt) |
 
 ### games
 
@@ -148,6 +149,7 @@
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.txt) |
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.txt) |
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.txt) |
+| 1472B | [Fair Division](https://codeforces.com/contest/1472/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1472/B%20-%20Fair%20Division/solution.txt) |
 | 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.txt) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1806/A%20-%20Walking%20Master/solution.txt) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.txt) |
@@ -257,6 +259,7 @@
 | 1360A | [Minimal Square](https://codeforces.com/contest/1360/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1360/A%20-%20Minimal%20Square/solution.txt) |
 | 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1367/B%20-%20Even%20Array/solution.txt) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.txt) |
+| 1472B | [Fair Division](https://codeforces.com/contest/1472/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1472/B%20-%20Fair%20Division/solution.txt) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.txt) |
 | 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.txt) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.txt) |
@@ -264,6 +267,7 @@
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1853/A%20-%20Desorting/solution.txt) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.txt) |
 | 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1873/B%20-%20Good%20Kid/solution.txt) |
+| 1877A | [Goals of Victory](https://codeforces.com/contest/1877/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1877/A%20-%20Goals%20of%20Victory/solution.txt) |
 | 1878C | [Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1878/C%20-%20Vasilije%20in%20Cacak/solution.txt) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.txt) |
