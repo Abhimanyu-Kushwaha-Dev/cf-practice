@@ -1,0 +1,28 @@
+for i in range(int(input())):
+    n=int(input())
+    lst=list(map(int,input().split()))
+    ans=sum(lst)
+    flag=True
+    for i in range(n-1):
+        if lst[i]==-1 and lst[i+1]==-1:
+            ans+=4
+            flag=False
+            break
+    if flag:
+        for i in range(n-1):
+            if lst[i]==1 and lst[i+1]==-1:
+                flag=False
+                break
+    if flag:
+        for i in range(n-1):
+            if lst[i]==-1 and lst[i+1]==1:
+                flag=False
+                break
+    if flag:
+        for i in range(n-1):
+            if lst[i]==1 and lst[i+1]==1:
+                ans-=4
+                break
+    print(ans)
+ 
+ 
