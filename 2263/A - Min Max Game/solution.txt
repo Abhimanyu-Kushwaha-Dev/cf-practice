@@ -1,0 +1,4 @@
+for i in range(int(input())):
+    n=input()
+    lst=list(map(int,input().split()))
+    print("Bessie") if lst.count(1)>=lst.count(0) else print("Elsie")
