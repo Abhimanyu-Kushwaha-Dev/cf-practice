@@ -1,0 +1,9 @@
+for i in range(int(input())):
+    n=int(input())
+    lst=list(map(int,input().split()))
+    m=min(lst)
+    M=max(lst)
+    if m==M:
+        print(n*(n-1))
+    else:
+        print(2*(lst.count(m)*lst.count(M)))
