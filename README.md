@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 121 | 23 |
+| 122 | 23 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (5)
+- [Uncategorized](#uncategorized) (6)
 - [binary search](#binary-search) (5)
 - [brute force](#brute-force) (19)
 - [combinatorics](#combinatorics) (2)
@@ -50,6 +50,7 @@
 |---|---------|------------|----------|
 | 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.txt) |
 | 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | Unrated | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.txt) |
+| 2280A | [Are They the Same?](https://codeforces.com/contest/2280/problem/A) | Unrated | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2280/A%20-%20Are%20They%20the%20Same%3F/solution.txt) |
 | 2283B | [Rhythmic String](https://codeforces.com/contest/2283/problem/B) | Unrated | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2283/B%20-%20Rhythmic%20String/solution.txt) |
 | 2284A1 | [15K4JR3B (Easy Version)](https://codeforces.com/contest/2284/problem/A1) | Unrated | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2284/A1%20-%2015K4JR3B%20(Easy%20Version)/solution.txt) |
 | 2284A2 | [15K4JR3B (Hard Version)](https://codeforces.com/contest/2284/problem/A2) | Unrated | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2284/A2%20-%2015K4JR3B%20(Hard%20Version)/solution.txt) |
