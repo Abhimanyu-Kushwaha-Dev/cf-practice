@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 123 | 23 |
+| 124 | 23 |
 
 ---
 
@@ -28,8 +28,8 @@
 - [greedy](#greedy) (29)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (65)
-- [math](#math) (47)
-- [number theory](#number-theory) (7)
+- [math](#math) (48)
+- [number theory](#number-theory) (8)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (14)
 - [strings](#strings) (18)
@@ -311,6 +311,7 @@
 | 1877A | [Goals of Victory](https://codeforces.com/contest/1877/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1877/A%20-%20Goals%20of%20Victory/solution.txt) |
 | 1878C | [Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1878/C%20-%20Vasilije%20in%20Cacak/solution.txt) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
+| 1945B | [Fireworks](https://codeforces.com/contest/1945/problem/B) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1945/B%20-%20Fireworks/solution.txt) |
 | 1992A | [Only Pluses](https://codeforces.com/contest/1992/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1992/A%20-%20Only%20Pluses/solution.txt) |
 | 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1996/A%20-%20Legs/solution.txt) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.txt) |
@@ -331,6 +332,7 @@
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.txt) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.txt) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
+| 1945B | [Fireworks](https://codeforces.com/contest/1945/problem/B) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1945/B%20-%20Fireworks/solution.txt) |
 
 ### shortest paths
 
