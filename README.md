@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 122 | 23 |
+| 123 | 23 |
 
 ---
 
@@ -25,10 +25,10 @@
 - [geometry](#geometry) (3)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (28)
+- [greedy](#greedy) (29)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (65)
-- [math](#math) (46)
+- [math](#math) (47)
 - [number theory](#number-theory) (7)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (14)
@@ -176,6 +176,7 @@
 | 1472B | [Fair Division](https://codeforces.com/contest/1472/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1472/B%20-%20Fair%20Division/solution.txt) |
 | 1551A | [Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1551/A%20-%20Polycarp%20and%20Coins/solution.txt) |
 | 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.txt) |
+| 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.txt) |
 | 1778A | [Flip Flop Sum](https://codeforces.com/contest/1778/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1778/A%20-%20Flip%20Flop%20Sum/solution.txt) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1806/A%20-%20Walking%20Master/solution.txt) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.txt) |
@@ -297,6 +298,7 @@
 | 1551A | [Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1551/A%20-%20Polycarp%20and%20Coins/solution.txt) |
 | 1624A | [Plus One on the Subset](https://codeforces.com/contest/1624/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1624/A%20-%20Plus%20One%20on%20the%20Subset/solution.txt) |
 | 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.txt) |
+| 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.txt) |
 | 1771A | [Hossam and Combinatorics](https://codeforces.com/contest/1771/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1771/A%20-%20Hossam%20and%20Combinatorics/solution.txt) |
 | 1781A | [Parallel Projection](https://codeforces.com/contest/1781/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1781/A%20-%20Parallel%20Projection/solution.txt) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.txt) |
