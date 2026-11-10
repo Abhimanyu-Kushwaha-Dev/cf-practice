@@ -1,0 +1,11 @@
+for i in range(int(input())):
+    n=int(input())
+    lst=list(map(int,input().split()))
+    dic={}
+    ans=-1
+    for x in lst:
+        dic[x]=dic.get(x,0)+1
+        if dic[x]==3:
+            ans=x
+            break
+    print(ans)
