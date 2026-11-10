@@ -15,7 +15,7 @@
 - [*special](#special) (3)
 - [Uncategorized](#uncategorized) (6)
 - [binary search](#binary-search) (5)
-- [brute force](#brute-force) (20)
+- [brute force](#brute-force) (21)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (5)
 - [data structures](#data-structures) (4)
@@ -27,7 +27,7 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (33)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (68)
+- [implementation](#implementation) (69)
 - [math](#math) (51)
 - [number theory](#number-theory) (8)
 - [shortest paths](#shortest-paths) (1)
@@ -91,6 +91,7 @@
 | 1992A | [Only Pluses](https://codeforces.com/contest/1992/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1992/A%20-%20Only%20Pluses/solution.txt) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2009/A%20-%20Minimize!/solution.txt) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.txt) |
+| 2280A | [Are They the Same?](https://codeforces.com/contest/2280/problem/A) | Unrated | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2280/A%20-%20Are%20They%20the%20Same%3F/solution.txt) |
 
 ### combinatorics
 
@@ -278,6 +279,7 @@
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.txt) |
 | 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.txt) |
 | 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.txt) |
+| 2280A | [Are They the Same?](https://codeforces.com/contest/2280/problem/A) | Unrated | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2280/A%20-%20Are%20They%20the%20Same%3F/solution.txt) |
 
 ### math
 
