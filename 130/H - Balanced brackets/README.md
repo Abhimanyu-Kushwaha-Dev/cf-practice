@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/130/problem/H" target="_blank" rel="noopener noreferrer">130H — Balanced brackets</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1600 |
+| **Language** | Befunge |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 130H](https://codeforces.com/contest/130/problem/H) |
+
+## Topics
+`*special`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">H. Balanced brackets</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>64 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">input</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">output</div>stdout</div></div><div><p>A sequence of brackets is called balanced if one can turn it into a valid math expression by adding characters «<span class="tex-font-style-tt">+</span>» and «<span class="tex-font-style-tt">1</span>». For example, sequences «<span class="tex-font-style-tt">(())()</span>», «<span class="tex-font-style-tt">()</span>» and «<span class="tex-font-style-tt">(()(()))</span>» are balanced, while «<span class="tex-font-style-tt">)(</span>», «<span class="tex-font-style-tt">(()</span>» and «<span class="tex-font-style-tt">(()))(</span>» are not.</p><p>You are given a string which consists of opening and closing round brackets. Check whether it is a balanced bracket sequence.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The only line of input contains a string between <span class="tex-span">1</span> and <span class="tex-span">100</span> characters long, inclusive. Each character in the string will be «<span class="tex-font-style-tt">(</span>» or «<span class="tex-font-style-tt">)</span>».</p></div><div class="output-specification"><div class="section-title">Output</div><p>Output «<span class="tex-font-style-tt">YES</span>» if the bracket sequence is balanced, and «<span class="tex-font-style-tt">NO</span>» otherwise (quotes for clarity only).</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id004775441901461053" id="id009562588598957741" class="input-output-copier">Copy</div></div><pre id="id004775441901461053">(()(()))()<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0048815186719768644" id="id008109111103276364" class="input-output-copier">Copy</div></div><pre id="id0048815186719768644">YES<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0004377356717234959" id="id007815171061851854" class="input-output-copier">Copy</div></div><pre id="id0004377356717234959">())()<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id004419625797953758" id="id0037263784104385667" class="input-output-copier">Copy</div></div><pre id="id004419625797953758">NO<br></pre></div></div></div>
