@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 130 | 23 |
+| 131 | 23 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [binary search](#binary-search) (5)
 - [brute force](#brute-force) (20)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (4)
+- [constructive algorithms](#constructive-algorithms) (5)
 - [data structures](#data-structures) (4)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (3)
@@ -25,7 +25,7 @@
 - [geometry](#geometry) (3)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (32)
+- [greedy](#greedy) (33)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (67)
 - [math](#math) (50)
@@ -107,6 +107,7 @@
 | 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.txt) |
 | 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.txt) |
 | 1992A | [Only Pluses](https://codeforces.com/contest/1992/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1992/A%20-%20Only%20Pluses/solution.txt) |
+| 2278B | [Stakes and Shapes](https://codeforces.com/contest/2278/problem/B) | Unrated | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2278/B%20-%20Stakes%20and%20Shapes/solution.txt) |
 
 ### data structures
 
@@ -196,6 +197,7 @@
 | 2074B | [The Third Side](https://codeforces.com/contest/2074/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2074/B%20-%20The%20Third%20Side/solution.txt) |
 | 2093B | [Expensive Number](https://codeforces.com/contest/2093/problem/B) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2093/B%20-%20Expensive%20Number/solution.txt) |
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | Unrated | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.txt) |
+| 2278B | [Stakes and Shapes](https://codeforces.com/contest/2278/problem/B) | Unrated | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2278/B%20-%20Stakes%20and%20Shapes/solution.txt) |
 | 2278C | [Math and Physics](https://codeforces.com/contest/2278/problem/C) | Unrated | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2278/C%20-%20Math%20and%20Physics/solution.txt) |
 
 ### hashing
