@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 132 | 23 |
+| 133 | 23 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (33)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (69)
+- [implementation](#implementation) (70)
 - [math](#math) (51)
 - [number theory](#number-theory) (8)
 - [shortest paths](#shortest-paths) (1)
@@ -237,6 +237,7 @@
 | 339B | [Xenia and Ringroad](https://codeforces.com/contest/339/problem/B) | 1000 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/339/B%20-%20Xenia%20and%20Ringroad/solution.txt) |
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/344/A%20-%20Magnets/solution.py) |
 | 427A | [Police Recruits](https://codeforces.com/contest/427/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/427/A%20-%20Police%20Recruits/solution.txt) |
+| 451A | [Game With Sticks](https://codeforces.com/contest/451/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/451/A%20-%20Game%20With%20Sticks/solution.txt) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.py) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/486/A%20-%20Calculating%20Function/solution.py) |
 | 492A | [Vanya and Cubes](https://codeforces.com/contest/492/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/492/A%20-%20Vanya%20and%20Cubes/solution.txt) |
