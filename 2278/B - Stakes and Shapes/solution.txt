@@ -1,0 +1,9 @@
+t=int(input())
+for i in range(t):
+    x,y,z=map(int,input().split())
+    if y>=z:
+        print("R"*(x+y+z))
+    elif z>=x:
+        print("S"*(x+y+z))
+    else:
+        print("P"*(x+y+z))
