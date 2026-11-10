@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 129 | 23 |
+| 130 | 23 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [*special](#special) (2)
+- [*special](#special) (3)
 - [Uncategorized](#uncategorized) (6)
 - [binary search](#binary-search) (5)
 - [brute force](#brute-force) (20)
@@ -42,6 +42,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 130H | [Balanced brackets](https://codeforces.com/contest/130/problem/H) | 1600 | [Befunge](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/130/H%20-%20Balanced%20brackets/solution.txt) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/158/A%20-%20Next%20Round/solution.py) |
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/158/B%20-%20Taxi/solution.txt) |
 
