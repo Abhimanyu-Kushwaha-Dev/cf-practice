@@ -1,0 +1,16 @@
+n=int(input())
+lst=list(map(int, input().split()))
+a=lst.count(1)
+b=lst.count(2)
+c=lst.count(3)
+d=lst.count(4)
+ans=d
+ans+=c
+a=max(0,a-c)
+ans+=b//2
+b%=2
+if b:
+    ans+=1
+    a=max(0,a-2)
+ans+=(a+3)//4
+print(ans)
