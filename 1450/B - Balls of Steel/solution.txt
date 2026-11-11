@@ -1,0 +1,20 @@
+for i in range(int(input())):
+    n,k=map(int,input().split())
+    lst=[]
+    ans=-1
+    for i in range(n):
+        x,y=map(int,input().split())
+        lst.append((x,y))
+    for i in range(n):
+        x1,y1=lst[i]
+        flag=True
+        for j in range(n):
+            x2,y2=lst[j]
+            d=abs(x1-x2)+abs(y1-y2)
+            if d>k:
+                flag=False
+                break
+        if flag:
+            ans=1
+            break
+    print(ans)
