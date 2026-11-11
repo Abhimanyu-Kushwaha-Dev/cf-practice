@@ -1,0 +1,11 @@
+n=input()
+s=input()
+dic="qwertyuiopasdfghjkl;zxcvbnm,./"
+ans=""
+for i in s:
+    a=dic.index(i)
+    if n=='R':
+        ans+=dic[a-1]
+    else:
+        ans+=dic[a+1]
+print(ans)
