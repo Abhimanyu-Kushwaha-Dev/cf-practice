@@ -1,0 +1,9 @@
+for i in range(int(input())):
+    n=int(input())
+    lst=list(map(int,input().split()))
+    for i in range(n):
+        if lst.count(lst[i])&1:
+            print("YES")
+            break
+    else:
+        print("NO")
