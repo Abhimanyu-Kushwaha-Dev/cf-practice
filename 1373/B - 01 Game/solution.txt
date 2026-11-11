@@ -1,0 +1,4 @@
+for i in range(int(input())):
+    s=input()
+    c=min(s.count('1'),s.count('0'))  
+    print("DA") if c&1 else print("NET")
