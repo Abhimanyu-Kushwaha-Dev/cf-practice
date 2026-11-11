@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 141 | 23 |
+| 143 | 23 |
 
 ---
 
@@ -15,23 +15,23 @@
 - [*special](#special) (3)
 - [Uncategorized](#uncategorized) (6)
 - [binary search](#binary-search) (5)
-- [brute force](#brute-force) (22)
+- [brute force](#brute-force) (23)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (6)
 - [data structures](#data-structures) (4)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (4)
-- [games](#games) (6)
-- [geometry](#geometry) (3)
+- [games](#games) (7)
+- [geometry](#geometry) (4)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (36)
+- [greedy](#greedy) (37)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (77)
-- [math](#math) (54)
+- [math](#math) (55)
 - [number theory](#number-theory) (9)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (16)
+- [sortings](#sortings) (17)
 - [strings](#strings) (19)
 - [ternary search](#ternary-search) (1)
 - [two pointers](#two-pointers) (2)
@@ -88,6 +88,7 @@
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.txt) |
 | 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1873/B%20-%20Good%20Kid/solution.txt) |
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.txt) |
+| 1990A | [Submission Bait](https://codeforces.com/contest/1990/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1990/A%20-%20Submission%20Bait/solution.txt) |
 | 1992A | [Only Pluses](https://codeforces.com/contest/1992/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1992/A%20-%20Only%20Pluses/solution.txt) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2009/A%20-%20Minimize!/solution.txt) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.txt) |
@@ -143,6 +144,7 @@
 | 1373B | [01 Game](https://codeforces.com/contest/1373/problem/B) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1373/B%20-%2001%20Game/solution.txt) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1858/A%20-%20Buttons/solution.txt) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
+| 1990A | [Submission Bait](https://codeforces.com/contest/1990/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1990/A%20-%20Submission%20Bait/solution.txt) |
 | 2060C | [Game of Mathletes](https://codeforces.com/contest/2060/problem/C) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2060/C%20-%20Game%20of%20Mathletes/solution.txt) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.txt) |
 | 2263A | [Min Max Game](https://codeforces.com/contest/2263/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2263/A%20-%20Min%20Max%20Game/solution.txt) |
@@ -151,6 +153,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1199B | [Water Lily](https://codeforces.com/contest/1199/problem/B) | 1000 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1199/B%20-%20Water%20Lily/solution.txt) |
 | 1781A | [Parallel Projection](https://codeforces.com/contest/1781/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1781/A%20-%20Parallel%20Projection/solution.txt) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1806/A%20-%20Walking%20Master/solution.txt) |
 | 2074B | [The Third Side](https://codeforces.com/contest/2074/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2074/B%20-%20The%20Third%20Side/solution.txt) |
@@ -199,6 +202,7 @@
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1858/A%20-%20Buttons/solution.txt) |
 | 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1873/B%20-%20Good%20Kid/solution.txt) |
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.txt) |
+| 1990A | [Submission Bait](https://codeforces.com/contest/1990/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1990/A%20-%20Submission%20Bait/solution.txt) |
 | 1992A | [Only Pluses](https://codeforces.com/contest/1992/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1992/A%20-%20Only%20Pluses/solution.txt) |
 | 2060C | [Game of Mathletes](https://codeforces.com/contest/2060/problem/C) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2060/C%20-%20Game%20of%20Mathletes/solution.txt) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.txt) |
@@ -315,6 +319,7 @@
 | 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.txt) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.txt) |
 | 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.txt) |
+| 1199B | [Water Lily](https://codeforces.com/contest/1199/problem/B) | 1000 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1199/B%20-%20Water%20Lily/solution.txt) |
 | 1283A | [Minutes Before the New Year](https://codeforces.com/contest/1283/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1283/A%20-%20Minutes%20Before%20the%20New%20Year/solution.txt) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.py) |
 | 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.txt) |
@@ -392,6 +397,7 @@
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.txt) |
 | 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.txt) |
 | 1971A | [My First Sorting Problem](https://codeforces.com/contest/1971/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1971/A%20-%20My%20First%20Sorting%20Problem/solution.txt) |
+| 1990A | [Submission Bait](https://codeforces.com/contest/1990/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1990/A%20-%20Submission%20Bait/solution.txt) |
 | 1992A | [Only Pluses](https://codeforces.com/contest/1992/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1992/A%20-%20Only%20Pluses/solution.txt) |
 | 2060C | [Game of Mathletes](https://codeforces.com/contest/2060/problem/C) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2060/C%20-%20Game%20of%20Mathletes/solution.txt) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2167/A%20-%20Square%3F/solution.txt) |
