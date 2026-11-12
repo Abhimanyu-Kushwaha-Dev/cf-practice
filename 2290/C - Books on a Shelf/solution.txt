@@ -1,0 +1,19 @@
+for i in range(int(input())):
+    n=int(input())
+    a=list(map(int,input().split()))
+    dic={}
+    for x in a:
+        dic[x]=dic.get(x,0)+1
+    h=sorted(dic)
+    l=h
+    m,r=[],[]
+    for x in h:
+        if dic[x]>=2:
+            r.append(x)
+        if dic[x]>2:
+            m.extend([x]*(dic[x]-2))
+    r.reverse()
+    ans=l+m+r
+    k=len(l)+len(r)
+    print(k)
+    print(*ans)
