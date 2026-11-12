@@ -1,0 +1,10 @@
+for i in range(int(input())):
+    n=int(input())
+    s=input()
+    c=0
+    x='R'
+    for i in s:
+        if i!=x:
+            c+=1
+        x='R' if i=='B' else 'B'
+    print(c)
