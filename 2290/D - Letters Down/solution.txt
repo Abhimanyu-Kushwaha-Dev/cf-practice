@@ -1,0 +1,19 @@
+for i in range(int(input())):
+    n=int(input())
+    s=list(input())
+    c=0
+    while s!=s[::-1]:
+        x=''
+        for i in range(n//2):
+            j=n-1-i
+            if s[i]!=s[j]:
+                x=max(x,s[i],s[j])
+        lst=[]
+        for i in s:
+            if i==x:
+                lst.append(chr(ord(i)-1))
+            else:
+                lst.append(i)
+        s=lst
+        c+=1
+    print(c)
