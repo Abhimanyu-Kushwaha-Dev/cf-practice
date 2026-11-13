@@ -1,0 +1,12 @@
+n,m=map(int,input().split())
+flag=False
+for i in range(n):
+    s=input().split()
+    for i in s:
+        if i in "CMY":
+            flag=True
+            break
+if flag:
+    print("#Color")
+else:
+    print("#Black&White")
