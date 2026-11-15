@@ -1,0 +1,11 @@
+for i in range(int(input())):
+    n=int(input())
+    s=input()
+    ans="YES"
+    for i in s.split("W"):
+        if i=="":
+            continue
+        if "B" not in i or "R" not in i:
+            ans="NO"
+            break
+    print(ans)
