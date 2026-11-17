@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 150 | 23 |
+| 151 | 23 |
 
 ---
 
@@ -31,8 +31,8 @@
 - [math](#math) (55)
 - [number theory](#number-theory) (9)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (17)
-- [strings](#strings) (19)
+- [sortings](#sortings) (18)
+- [strings](#strings) (20)
 - [ternary search](#ternary-search) (1)
 - [two pointers](#two-pointers) (2)
 
@@ -411,6 +411,7 @@
 | 1992A | [Only Pluses](https://codeforces.com/contest/1992/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1992/A%20-%20Only%20Pluses/solution.txt) |
 | 2060C | [Game of Mathletes](https://codeforces.com/contest/2060/problem/C) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2060/C%20-%20Game%20of%20Mathletes/solution.txt) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2167/A%20-%20Square%3F/solution.txt) |
+| 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2167/B%20-%20Your%20Name/solution.txt) |
 
 ### strings
 
@@ -434,6 +435,7 @@
 | 1883B | [Chemistry](https://codeforces.com/contest/1883/problem/B) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1883/B%20-%20Chemistry/solution.txt) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1985/A%20-%20Creating%20Words/solution.txt) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.txt) |
+| 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2167/B%20-%20Your%20Name/solution.txt) |
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | Unrated | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.txt) |
 
 ### ternary search
