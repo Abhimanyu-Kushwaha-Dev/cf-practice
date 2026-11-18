@@ -1,0 +1,17 @@
+n=input()
+flag=True
+c=0
+if n[0]!="1":
+    flag=False
+if any(i in n for i in "23567890"):
+    flag=False
+else:
+    for i in n:
+        if i=="4":
+            c+=1
+        if c>2:
+            flag=False
+            break
+        if i=="1":
+            c=0
+print("YES") if flag else print("NO")
