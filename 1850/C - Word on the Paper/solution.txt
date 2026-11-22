@@ -1,0 +1,11 @@
+for i in range(int(input())):
+    lst=[]
+    for i in range(8):
+        r=input()
+        lst.append(r)
+    s=""
+    for c in range(8):
+        for r in range(8):
+            if lst[r][c]!='.':
+                s+=lst[r][c]
+    print(s)
