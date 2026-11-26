@@ -1,0 +1,8 @@
+for i in range(int(input())):
+    n=int(input())
+    s=input().lower()
+    M=0
+    for i in s:
+        if ord(i)>M:
+            M=ord(i)
+    print(M-96)
