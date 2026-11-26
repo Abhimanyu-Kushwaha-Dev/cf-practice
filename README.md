@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 159 | 23 |
+| 160 | 23 |
 
 ---
 
@@ -17,9 +17,9 @@
 - [binary search](#binary-search) (6)
 - [brute force](#brute-force) (26)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (7)
+- [constructive algorithms](#constructive-algorithms) (8)
 - [data structures](#data-structures) (4)
-- [dfs and similar](#dfs-and-similar) (1)
+- [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (4)
 - [games](#games) (7)
 - [geometry](#geometry) (5)
@@ -28,7 +28,7 @@
 - [greedy](#greedy) (40)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (85)
-- [math](#math) (58)
+- [math](#math) (59)
 - [number theory](#number-theory) (9)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (19)
@@ -119,6 +119,7 @@
 | 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.txt) |
 | 1992A | [Only Pluses](https://codeforces.com/contest/1992/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1992/A%20-%20Only%20Pluses/solution.txt) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.txt) |
+| 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | 1100 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.txt) |
 | 2278B | [Stakes and Shapes](https://codeforces.com/contest/2278/problem/B) | Unrated | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2278/B%20-%20Stakes%20and%20Shapes/solution.txt) |
 
 ### data structures
@@ -135,6 +136,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 500A | [New Year Transportation](https://codeforces.com/contest/500/problem/A) | 1000 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/500/A%20-%20New%20Year%20Transportation/solution.txt) |
+| 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | 1100 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.txt) |
 
 ### dp
 
@@ -382,6 +384,7 @@
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2167/A%20-%20Square%3F/solution.txt) |
 | 2203A | [Towers of Boxes](https://codeforces.com/contest/2203/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2203/A%20-%20Towers%20of%20Boxes/solution.txt) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.txt) |
+| 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | 1100 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.txt) |
 
 ### number theory
 
