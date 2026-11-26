@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 158 | 23 |
+| 159 | 23 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (40)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (84)
+- [implementation](#implementation) (85)
 - [math](#math) (58)
 - [number theory](#number-theory) (9)
 - [shortest paths](#shortest-paths) (1)
@@ -259,6 +259,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 339B | [Xenia and Ringroad](https://codeforces.com/contest/339/problem/B) | 1000 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/339/B%20-%20Xenia%20and%20Ringroad/solution.txt) |
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/344/A%20-%20Magnets/solution.py) |
+| 379A | [New Year Candles](https://codeforces.com/contest/379/problem/A) | 1000 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/379/A%20-%20New%20Year%20Candles/solution.txt) |
 | 427A | [Police Recruits](https://codeforces.com/contest/427/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/427/A%20-%20Police%20Recruits/solution.txt) |
 | 451A | [Game With Sticks](https://codeforces.com/contest/451/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/451/A%20-%20Game%20With%20Sticks/solution.txt) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [Python 3](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.py) |
