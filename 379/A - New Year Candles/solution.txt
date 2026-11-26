@@ -1,0 +1,8 @@
+a,b=map(int,input().split())
+ans=a
+while a>=b:
+    c=a//b
+    r=a%b
+    ans+=c
+    a=c+r
+print(ans)
