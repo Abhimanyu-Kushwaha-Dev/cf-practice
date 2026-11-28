@@ -1,0 +1,8 @@
+lst=['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
+s=input()
+pos=0
+c=0
+for i in s:
+    c+=min(abs(lst.index(i)-pos),abs(26-abs(lst.index(i)-pos)))
+    pos=lst.index(i)
+print(c)
