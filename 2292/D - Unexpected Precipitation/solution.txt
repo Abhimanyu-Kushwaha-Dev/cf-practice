@@ -1,0 +1,16 @@
+for i in range(int(input())):
+    n=int(input())
+    x=list(map(int,input().split()))
+    y=list(map(int,input().split()))
+    sun,aub=0,0
+    for i in range(n-1,-1,-1):
+        newsun=max((x[i]-y[i]+sun),aub)
+        newaub=min((y[i]-x[i]+aub),sun)
+        sun=newsun
+        aub=newaub
+    if sun>0:
+        print("Sunny")
+    elif sun<0:
+        print("Aubrey")
+    else:
+        print("Draw")
