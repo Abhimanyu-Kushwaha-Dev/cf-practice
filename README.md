@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 160 | 23 |
+| 161 | 23 |
 
 ---
 
@@ -20,8 +20,8 @@
 - [constructive algorithms](#constructive-algorithms) (8)
 - [data structures](#data-structures) (4)
 - [dfs and similar](#dfs-and-similar) (2)
-- [dp](#dp) (4)
-- [games](#games) (7)
+- [dp](#dp) (5)
+- [games](#games) (8)
 - [geometry](#geometry) (5)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
@@ -146,6 +146,7 @@
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/706/B%20-%20Interesting%20drink/solution.txt) |
 | 1472B | [Fair Division](https://codeforces.com/contest/1472/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1472/B%20-%20Fair%20Division/solution.txt) |
 | 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.txt) |
+| 2292D | [Unexpected Precipitation](https://codeforces.com/contest/2292/problem/D) | Unrated | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2292/D%20-%20Unexpected%20Precipitation/solution.txt) |
 
 ### games
 
@@ -158,6 +159,7 @@
 | 2060C | [Game of Mathletes](https://codeforces.com/contest/2060/problem/C) | 900 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2060/C%20-%20Game%20of%20Mathletes/solution.txt) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.txt) |
 | 2263A | [Min Max Game](https://codeforces.com/contest/2263/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2263/A%20-%20Min%20Max%20Game/solution.txt) |
+| 2292D | [Unexpected Precipitation](https://codeforces.com/contest/2292/problem/D) | Unrated | [PyPy 3-64](https://github.com/Abhimanyu-Kushwaha-Dev/cf-practice/blob/HEAD/2292/D%20-%20Unexpected%20Precipitation/solution.txt) |
 
 ### geometry
 
